@@ -5,7 +5,7 @@ Taller #1 de NodeJS- Orientado a FronEdnt.
 * [Descripción del proyecto](#descripción-del-proyecto)
 * [Estado del proyecto](#estado-del-proyecto)
 * [Características](#características)
-* [Tecnologías utilizadas](#tecnologías-utilizadas)
+* [Tecnologías usadas](#tecnologías-usadas)
 * [Contacto](#contacto)
 
 ### Descripción
@@ -35,7 +35,7 @@ Aquí está contenida nuestra lista de empleado, cada uno on su id, nombre compl
 Aquí está conenido el footer de nuestra página, con sus respectivos estilos e importaciones.
 
 
-### Tecnologías usuadas
+### Tecnologías usadas
 ***
 * [NodeJS 18.16.1]
 * [Visual Studio Code] 
