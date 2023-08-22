@@ -4,7 +4,7 @@ Taller #1 de NodeJS- Orientado a FronEdnt.
 ## Tabla de Contenidos
 * [Descripción del proyecto](#descripción-del-proyecto)
 * [Estado del proyecto](#estado-del-proyecto)
-* [Características del proyecto](Características-del-proyecto)
+* [Características](Características)
 * [Tecnologías utilizadas](#tecnologías-utilizadas)
 * [Contacto](#contacto)
 
